@@ -17,5 +17,5 @@ To Import into your application (eclipse)
 
 References
 ------
--OkHttp - https://github.com/square/okhttp
--Volley - https://android.googlesource.com/platform/frameworks/volley/
+1. OkHttp - https://github.com/square/okhttp
+1. Volley - https://android.googlesource.com/platform/frameworks/volley/
